@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jovahny
 - 👀 I’m interested in system architecture
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me - {somehow}
 
 <!---
